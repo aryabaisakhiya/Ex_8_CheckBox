@@ -1,5 +1,5 @@
 # Ex_8_CheckBox
-#Date:
+# Date:
 
 Develop a program to create a option menu using checkboxes and display the toast selected checkboxes with Android Studio
 ## AIM:
